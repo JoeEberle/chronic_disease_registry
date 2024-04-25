@@ -1,12 +1,12 @@
 
-# Chronic Disease Registry - Solution for Chronic Disease Registry
-Solution for Chronic Disease Registry
+# Chronic Disease Registry - A chronic disease registry classifies patients with specific diseases or conditions. 
+A chronic disease registry classifies patients with specific diseases or conditions. 
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Chronic Disease Registry** - an example for your projects
 
-Solution for Chronic Disease Registry
+A chronic disease registry classifies patients with specific diseases or conditions. 
 
 ![Image image_filename](sample.png)
 
