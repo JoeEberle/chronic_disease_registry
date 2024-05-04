@@ -38,4 +38,4 @@ To get started with the **Chronic Disease Registry** solution repository, follow
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures
+    ## Deliverables or Figures![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
