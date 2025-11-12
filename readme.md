@@ -4,21 +4,11 @@
 
 ## A chronic disease registry classifies patients with specific diseases or conditions. 
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Chronic Disease Registry** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Chronic Disease Registry** 
 
 A chronic disease registry classifies patients with specific diseases or conditions. 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
